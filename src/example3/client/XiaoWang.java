@@ -5,7 +5,7 @@ import example3.io.FileIO;
 /**
  * Created by XiaoQin on 16/12/7.
  */
-public class XiaoWang {
+public class XiaoWang{
 
     public static void main(String[] args) {
         new XiaoWang().saveStr();
